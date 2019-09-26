@@ -1,0 +1,6 @@
+C:\TE41920\Demo 20190926\Demo20190926\Demo20190926console\obj\Debug\Demo20190926console.csprojAssemblyReference.cache
+C:\TE41920\Demo 20190926\Demo20190926\Demo20190926console\bin\Debug\Demo20190926console.exe.config
+C:\TE41920\Demo 20190926\Demo20190926\Demo20190926console\bin\Debug\Demo20190926console.exe
+C:\TE41920\Demo 20190926\Demo20190926\Demo20190926console\bin\Debug\Demo20190926console.pdb
+C:\TE41920\Demo 20190926\Demo20190926\Demo20190926console\obj\Debug\Demo20190926console.exe
+C:\TE41920\Demo 20190926\Demo20190926\Demo20190926console\obj\Debug\Demo20190926console.pdb
